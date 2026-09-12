@@ -1,2 +1,2 @@
-# eduprof-Gabon-v6.3.4-
+# eduprof-Gabon-v6.2.5.
 pour mon déploiement 
